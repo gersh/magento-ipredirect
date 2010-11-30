@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/hourbuyhour/!svn/ver/77/trunk/www/app/code/local/LocationTracker/IpRedirect/etc
+END
+system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hourbuyhour/!svn/ver/39/trunk/www/app/code/local/LocationTracker/IpRedirect/etc/system.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hourbuyhour/!svn/ver/77/trunk/www/app/code/local/LocationTracker/IpRedirect/etc/config.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hourbuyhour/!svn/ver/37/trunk/www/app/code/local/LocationTracker/IpRedirect/etc/adminhtml.xml
+END
